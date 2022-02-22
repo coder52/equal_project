@@ -1,4 +1,12 @@
 
 *.iml
-.ipynb_checkpoints/Untitled-checkpoint.ipynb
 .idea/modules.xml
+.ipynb_checkpoints/*
+
+__pycache__/helper.cpython-36.pyc
+electronics-10-02353-v2.pdf
+intro-to-pytorch
+flower_photos
+flowers
+intro-to-pytorch
+helper.py
