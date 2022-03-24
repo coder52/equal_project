@@ -1,3 +1,7 @@
+[//]: # (Image References)
+
+[image1]: ./assets/folders.JPG "Folder Design"
+
 # Flower Irrigation System with Deep Learning 
 
 This Project is part of the IoT project at the Hochschule Kaiserslautern. The aim of this part of the project is to create a system that can control and decide the irrigation work of houseplants by using artificial intelligence (Deep Learning and Dens Net). The images required for training CNN to run the project and the .csv file required for training Dens Net are not provided here. 
@@ -20,8 +24,7 @@ This Project is part of the IoT project at the Hochschule Kaiserslautern. The ai
 4. Run the 'Laboratory for Plant Thirst Classification with Transfer Learning.ipynb' file on the opened browser.
     * A new browser tab will open. In order for the codes in this tab to work, there must be train and test images in a file called 'flowers'. 
     
-    [//]: # (Image References)
-    [image1]: ./assets/folders.JPG "Folder Design"
+    ![Folder Design][image1]
         -flowers-
         --test--
         ---good---
