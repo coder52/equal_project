@@ -18,7 +18,6 @@ transferlearning_model_equal.pt
 first_neural_network
 Bewässerungszeiten-Datensatz
 assets
-*.csv
 Camera.ipynb
 *.pyc
 *.pt
@@ -26,5 +25,5 @@ houseplant_images_kaggle
 Untitled.ipynb
 first_neural_network
 alternative_dens_net
-*.mp4
-*.html
+nn_weights.csv
+nn_weights_.csv
