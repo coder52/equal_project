@@ -17,7 +17,6 @@ model_equal.pt
 transferlearning_model_equal.pt
 first_neural_network
 Bewässerungszeiten-Datensatz
-assets
 Camera.ipynb
 *.pyc
 *.pt
