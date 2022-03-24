@@ -11,7 +11,7 @@ This Project is part of the IoT project at the Hochschule Kaiserslautern. The ai
 
 1. You can run the project with Anaconda the easiest. So download Anaconda or miniconda.
 
-2. You can download the requirements with the help of the **environment.yaml** file.
+2. You can download the requirements with the help of the `**environment.yaml**` file.
 
     - open anaconda prompt.
     - go to the directory where the environment.yaml file is.
