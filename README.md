@@ -19,11 +19,11 @@ This Project is part of the IoT project at the Hochschule Kaiserslautern. The ai
 
 4. Run the 'Laboratory for Plant Thirst Classification with Transfer Learning.ipynb' file on the opened browser.
     * A new browser tab will open. In order for the codes in this tab to work, there must be train and test images in a file called 'flowers'. 
-        -flowers
-        --test
-        ---good
-        ---thirsty
-        --train
-        ---good
-        ---thirsty
+        -flowers-
+        --test--
+        ---good---
+        ---thirsty---
+        --train--
+        ---good---
+        ---thirsty---
     
