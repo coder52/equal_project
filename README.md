@@ -1,6 +1,7 @@
 [//]: # (Image References)
 
 [image1]: ./assets/folders.JPG "Folder Design"
+[image2]: ./assets/run_lab1.JPG "Lab CNN"
 
 # Flower Irrigation System with Deep Learning 
 
@@ -25,3 +26,7 @@ This Project is part of the IoT project at the Hochschule Kaiserslautern. The ai
     * A new browser tab will open. In order for the codes in this tab to work, there must be train and test images in a file called 'flowers'. 
     
         ![Folder Design][image1]
+        
+    * After filling the files with appropriate pictures, run the codes. 
+    
+        ![Lab CNN][image2]
