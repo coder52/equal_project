@@ -38,6 +38,6 @@ This Project is part of the IoT project at the Hochschule Kaiserslautern. The ai
 
 6. If the files are ready, run the Notebook with the 'Restart & Run All' option under the Kernel as you did in the previous Jupyter Notebook. At the end of the training, the model weights will be saved for later use.
 
-7. Now that we have trained both AIs, we can run our project. For this, let's open the `Run The Project.ipynb` file. This time, I recommend that you run each cell one by one on the Notebook one by one (Shift+Enter). So you can progress by testing each stage.
+7. Now that we have trained both AIs, we can run our project. For this, let's open the `Run The Project.ipynb` file. This time, I recommend that you run each cell one by one on the Notebook (Shift+Enter). So you can progress by testing each stage.
 
 8. 
